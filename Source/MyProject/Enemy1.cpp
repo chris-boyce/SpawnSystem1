@@ -15,7 +15,7 @@ AEnemy1::AEnemy1()
 void AEnemy1::BeginPlay()
 {
 	Super::BeginPlay();
-	UE_LOG(LogTemp, Warning, TEXT("Enemy 1 Has Arrived") );
+	UE_LOG(LogTemp, Warning, TEXT("Enemy 123 Has Arrived") );
 }
 
 // Called every frame
