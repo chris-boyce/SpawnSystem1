@@ -41,6 +41,21 @@
 *.VC.db
 *.VC.opendb
 
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
 # Precompiled Assets
 SourceArt/**/*.png
 SourceArt/**/*.tga
